@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Jazzzny/Roblox-Project-Maple/blob/main/projectmaple.png">
+  <img src="https://github.com/Jazzzny/Roblox-Project-Maple/blob/main/pmopensource.png">
 </p>
 
 # Roblox-Project-Maple
