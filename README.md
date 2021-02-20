@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://example.com" alt="Project Maple"/>
+  <img src="https://github.com/Jazzzny/Roblox-Project-Maple/blob/main/projectmaple.png">
 </p>
 
 # Roblox-Project-Maple
